@@ -1,4 +1,5 @@
-import { StyleVogueEnhancedLanding } from "@/components/enhanced-landing";
+import { StyleVogueEnhancedLanding } from "@/components/enhanced-style-vogue";
+
 
 
 export default function Page() {
